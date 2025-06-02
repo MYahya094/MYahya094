@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on AI and ML projects
 - 📫 How to reach me myahyajutt6650@gmail.com
 - 😄 Pronouns: Yahya
-- ⚡ Fun fact: Married
+- ⚡ Fun fact:
 
 <!---
 MYahya094/MYahya094 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
