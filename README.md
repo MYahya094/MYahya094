@@ -1,12 +1,25 @@
-- 👋 Hi, I’m @MYahya094
-- 👀 I’m interested in Data Science
-- 🌱 AI/ML Engineer
-- 💞️ I’m looking to collaborate on AI and ML projects
-- 📫 How to reach me myahyajutt6650@gmail.com
-- 😄 Pronouns: Yahya
-- ⚡ Fun fact:
+Python Automation & Web Scraping Expert | Data Extraction & ETL
 
-<!---
-MYahya094/MYahya094 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+1M+ records extracted. 100% Job Success. I build web scraping, data extraction and automation systems that work while you sleep.
+
+1M+ records extracted across e-commerce, real estate, legal, and automotive platforms. Every project delivered on time with clean, ready-to-use data.
+
+What I specialize in:
+→ Web Scraping & Crawling (Python, Selenium, Scrapy, Playwright, BeautifulSoup)
+→ PDF & Document Data Extraction (OCR pipelines)
+→ Automation (Bots, Scripts, Task & Workflow Automation)
+→ API Integration & Data Pipelines
+→ ETL Workflows & Scheduled Jobs
+→ Database Pipelines (PostgreSQL, MySQL, MongoDB)
+
+Industries I've worked in:
+→ E-commerce (Amazon, Noon, Carrefour, Sharaf DG)
+→ Real Estate (Realtor , Realtor.ca, Coldwell Banker, Zillow)
+→ Automotive (ACV Auctions)
+→ Legal & Government (NYSCEF Court Records)
+→ Research & Patents (EV Industry Analysis)
+
+Data delivered as:
+→ CSV, Excel, JSON, Google Sheets
+→ PostgreSQL, MySQL, MongoDB
+→ REST Endpoints & Real-Time Webhooks
