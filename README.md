@@ -1,4 +1,5 @@
 Python Developer | AI Automation | ETL Pipelines | FastAPI APIs
+
 𝗦𝗮𝘃𝗲 𝟭𝟱+ 𝗛𝗼𝘂𝗿𝘀 𝗪𝗲𝗲𝗸𝗹𝘆 𝘄𝗶𝘁𝗵 𝗦𝗰𝗮𝗹𝗮𝗯𝗹𝗲 𝗣𝘆𝘁𝗵𝗼𝗻 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻 𝗦𝘆𝘀𝘁𝗲𝗺𝘀
 Are you still relying on manual processes, spreadsheets, and repetitive workflows? These inefficiencies slow down your business, increase errors, and cost you money. I help businesses eliminate manual work by building scalable Python automation systems, ETL pipelines, and AI-powered solutions that run 24/7.
 I specialize in transforming complex workflows into efficient, automated, and production-ready systems using Python, APIs, and modern AI tools.
